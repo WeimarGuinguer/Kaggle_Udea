@@ -16,3 +16,9 @@
 
 # Video
 https://youtu.be/jb_idSfgX0w
+
+# Entrega Final
+   1. Predicción
+
+# Video 
+https://youtu.be/gQqcV1LodqA
